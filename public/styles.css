@@ -1,0 +1,17 @@
+body{
+    color: wheat;
+    font: 2em Monaco;
+    text-align: center;
+    font-size: xx-large;
+    background-color: #272822;
+}
+
+button{
+    padding: 10px 15px;
+    background-color: palevioletred;
+    color: whitesmoke;
+    border-color: #272822;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: x-large;
+}
